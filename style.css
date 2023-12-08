@@ -1,0 +1,22 @@
+h1{
+    color: rgb(160, 219, 22);
+   /* //text-decoration: line-through;*/
+   font-weight: lighter;
+} 
+
+h2{
+    color: #ff0000;
+} 
+*{
+    /* / background-color: aqua;
+    color: green;*/
+}
+.text{
+    text-align: center;
+    font-weight:900 ;
+    font-family: arial;
+}
+
+a{
+    text-decoration: none;
+}

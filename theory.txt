@@ -1,0 +1,16 @@
+1.       ===color system===
+     RGB = red  +  green + blue rgb(0-255) rgb(0,0,255)
+     HEX= #(0-15)=>0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+            #0000ff
+ 2.       *{
+
+
+          }
+
+ 3.       =====text properties=====
+
+         text-align(left,right,center)
+         text decoration(uderline,overline,line-through,none)
+         font-weight(normal,bold,bolder,lighter)(100-900)
+         font-family(Times new roman,arial,robot,sens-serif)
